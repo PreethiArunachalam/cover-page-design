@@ -145,7 +145,7 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ## Output:
 ###Client Output:
 
-![image](https://user-images.githubusercontent.com/120115840/236625440-4d85eb43-5b5f-40e0-8c70-75261a267d2a.png)
+![image](https://user-images.githubusercontent.com/120115840/236625807-da494933-5367-4f0c-a21d-30b7ff6e6c84.png)
 
 ###Server Output:
 
